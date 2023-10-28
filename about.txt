@@ -1,0 +1,3 @@
+Prevents minerals in the base game from being sold through the trading screen.
+
+These minerals can still be sold through the outfitter.
