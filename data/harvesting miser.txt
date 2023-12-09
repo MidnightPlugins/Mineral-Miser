@@ -56,3 +56,7 @@ outfit "Void Orchid"
 	"minable" -1
 
 
+# The following are asteroids in other plugins.
+
+outfit "Pyrite"
+	"minable" -1
