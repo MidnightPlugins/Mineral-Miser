@@ -8,6 +8,7 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
+
 outfit "Aluminum"
 	"minable" -1
 
@@ -48,7 +49,6 @@ outfit "Yottrite"
 	"minable" -1
 
 
-
 # The following are not traditional asteroids, and are not present at the start of the game.
 # They are added to specific systems in the Ember Waste during the events of the 'Remnant: Cognizance' missions.
 
@@ -56,7 +56,17 @@ outfit "Void Orchid"
 	"minable" -1
 
 
-# The following are asteroids in other plugins.
+# Gossamer Smoke Ring Minables
+
+outfit "Voidfish"
+	"minable" -1
+
+outfit "Integral Wood"
+	"minable" -1
+
+
+# The following are minables in other plugins.
 
 outfit "Pyrite"
 	"minable" -1
+
