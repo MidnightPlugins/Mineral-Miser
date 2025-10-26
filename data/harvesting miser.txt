@@ -65,8 +65,31 @@ outfit "Integral Wood"
 	"minable" -1
 
 
-# The following are minables in other plugins.
+# The following are from the Lost in Midnight plugin.
+
+outfit "Deuterium"
+	"minable" -1
+
+outfit "Krypton"
+	"minable" -1
+
+outfit "Murkfish"
+	"minable" -1
 
 outfit "Pyrite"
 	"minable" -1
 
+outfit "Radon"
+	"minable" -1
+
+outfit "Rotting Murk Flesh"
+	"minable" -1
+
+outfit "Voidjelly"
+	"minable" -1
+
+outfit "Wither Wood"
+	"minable" -1
+
+outfit "Xenon"
+	"minable" -1
